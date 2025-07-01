@@ -1,6 +1,3 @@
-Here’s a complete and well-structured `README.md` for your Sentiment Analysis Web App:
-
----
 
 # 🧠 AI Sentiment Analysis Web App
 
@@ -120,6 +117,3 @@ The following file formats are supported for exporting results:
 
 This project is for educational and non-commercial use. Please review the terms of the OpenRouter API for any commercial restrictions.
 
----
-
-If you would like, I can help you customize this further for GitHub with badges, example screenshots, or deployment instructions for Hugging Face Spaces. Let me know!
