@@ -1,4 +1,3 @@
-
 # 🧠 AI Sentiment Analysis Web App
 
 This project is a **Gradio-based web application** that performs **AI-powered sentiment analysis** using the OpenRouter API. The app provides:
@@ -9,7 +8,7 @@ This project is a **Gradio-based web application** that performs **AI-powered se
 * Downloadable results in CSV, Excel, and TXT formats.
 * Visual performance metrics including a sentiment distribution chart and confusion matrix.
 
-🚀 Try the Live Demo Here: Sentiment Analyzer on Hugging Face Spaces
+> 🚀 **Try the Live Demo Here:** [Sentiment Analyzer on Hugging Face Spaces](https://huggingface.co/spaces/ThaboMarvin/Sentiment-Analyzer)
 
 ---
 
@@ -54,13 +53,15 @@ Text,GroundTruth
 pip install gradio pandas plotly scikit-learn requests
 ```
 
-### Running the App
+### Running the App Locally
 
 ```bash
 python app.py
 ```
 
 The app will automatically launch in your browser.
+
+> ✅ You can also use the hosted version [here](https://huggingface.co/spaces/ThaboMarvin/Sentiment-Analyzer) without installing anything locally.
 
 ---
 
