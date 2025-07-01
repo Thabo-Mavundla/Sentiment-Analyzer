@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score, precision_recall_fscore_support, con
 import plotly.figure_factory as ff
 
 # 🔑 API Key
-API_KEY = os.getenv("API_KEY") or "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"
+API_KEY = os.getenv("API_KEY") or "YOUR API KEY"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 MAX_WORKERS = 2
