@@ -9,7 +9,7 @@ This project is a **Gradio-based web application** that performs **AI-powered se
 * Visual performance metrics including a sentiment distribution chart and confusion matrix.
 
 > 🚀 **Try the Live Demo Here:** [Sentiment Analyzer on Hugging Face Spaces](https://huggingface.co/spaces/ThaboMarvin/Sentiment-Analyzer)
-> **Presentation https://prezi.com/view/0c1nUSiO8E4yfVbkEK1p/
+> **Presentation** https://prezi.com/view/0c1nUSiO8E4yfVbkEK1p/
 
 ---
 
